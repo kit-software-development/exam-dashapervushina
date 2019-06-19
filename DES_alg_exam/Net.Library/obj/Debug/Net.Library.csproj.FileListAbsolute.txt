@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Net.Library\bin\Debug\Net.Library.dll
+C:\Users\User\Desktop\Net.Library\bin\Debug\Net.Library.pdb
+C:\Users\User\Desktop\Net.Library\obj\Debug\Net.Library.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Net.Library\obj\Debug\Net.Library.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Net.Library\obj\Debug\Net.Library.dll
+C:\Users\User\Desktop\Net.Library\obj\Debug\Net.Library.pdb

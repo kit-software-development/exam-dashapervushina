@@ -1,0 +1,2 @@
+C:\Users\User\Desktop\Tcp.Server2\obj\Debug\Tcp.Server2.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Tcp.Server2\obj\Debug\Tcp.Server2.csproj.CoreCompileInputs.cache
